@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<Label id="label" >create table</Label>
+		<Button id="create_table" title="Create Table" onClick="createTable"/>
+	</Window>
+</Alloy>
